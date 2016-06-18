@@ -1,7 +1,9 @@
 #
 # SQLAzure - Montar 1 srv.ps1
 # Montar un Servidor de SQL Azure
+# http://www.mundosql.es/
 #
+
 Clear 
 
 # Datos GR

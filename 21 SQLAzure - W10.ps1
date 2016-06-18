@@ -4,6 +4,7 @@
 # Servidor SQLAzure
 # Visual Studio 2015
 # Azure SDK 2.9
+# http://www.mundosql.es/
 #
 
 Clear

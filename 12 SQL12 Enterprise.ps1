@@ -2,7 +2,9 @@
 # SQL12.ps1
 # Edicion Enterprise
 # WS2012R2
+# http://www.mundosql.es/
 #
+
 Clear
 
 # Datos GR
